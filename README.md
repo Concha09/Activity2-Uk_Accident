@@ -6,4 +6,3 @@ DESCRIPTION:
 [Activity 2](https://github.com/Concha09/Activity2-Uk_Accident/blob/main/Activity2-checkpoint.ipynb)
 
 
-[Logistic](https://drive.google.com/file/d/1EdatJUiDxIsvM968EK0V3F5ikEfNoj17/view?usp=sharing) 
